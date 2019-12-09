@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name PCC Netsuite UserScript
-// @version 1.0
+// @version 1.01
 // @description Float item sublist header on scroll
 // @updateURL    https://github.com/nschumer-pcc/Netsuite-User-Scripts/blob/master/NetSuiteUserScripts.user.js
 // @downloadURL  https://github.com/nschumer-pcc/Netsuite-User-Scripts/blob/master/NetSuiteUserScripts.user.js
