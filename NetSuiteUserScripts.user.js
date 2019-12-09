@@ -9,6 +9,7 @@
 (function($, undefined) {
     $(document).ready(checkItemTable);
 
+    //Checks if item table has loaded yet. If it has it floats the header if needed. If it hasn't, it waits and tries again.
     function checkItemTable() {
         if ($('.uir-machine-table-container').outerHeight() > 100) {
             const windowHeight = $(window).height();
