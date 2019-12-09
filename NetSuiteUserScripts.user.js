@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name PCC Netsuite UserScript
-// @version 1.02
+// @version 1.03
 // @description Float item sublist header on scroll
 // @match https://*.netsuite.com/*
 // grant none
